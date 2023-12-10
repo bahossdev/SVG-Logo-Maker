@@ -1,0 +1,13 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1B9280; stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ACFF33; stop-opacity:1" />
+    </linearGradient>
+  </defs>
+
+  <rect x="60" y="45" width="150" height="150" rx="10" ry="10" fill="url(#grad)" />
+  <text x="135" y="135" font-size="60" text-anchor="middle" style='font-weight: bold; font-family: Arial, Sans;' fill="white ">YAY</text>
+
+</svg>
