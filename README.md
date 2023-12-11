@@ -3,7 +3,7 @@
 A command-line application that takes in user input and generates a logo.
 
 ## Description
-A Node.js command-line application that empowers developers to create custom logos using Scalable Vector Graphics (SVG). This application prompts users to choose a shape, select colors for the shape and text, input up to three characters for the text, and even offers the option to have a 2-color gradient background. The generated logo is saved as `logo.svg` in the `demo` folder.
+A Node.js command-line application that empowers developers to create custom logos using Scalable Vector Graphics (SVG). This application prompts users to choose a shape, select colours for the shape and text, input up to three characters for the text, and even offers the option to have a 2-colour gradient background. The generated logo is saved as `logo.svg` in the `demo` folder.
 
 ## Table of Contents
 
@@ -19,12 +19,12 @@ A Node.js command-line application that empowers developers to create custom log
 *   [Questions](#questions)
 
 ## Features
-*   **Logo Customization:** Tailor your logo by choosing from three shapes (square, circle, triangle) and setting colors for the shape and text.
+*   **Logo Customization:** Tailor your logo by choosing from three shapes (square, circle, triangle) and setting colours for the shape and text.
 *   **Gradient Background:** Optionally add a stylish touch with a 2-color gradient background for your logo.
 *   **Effortless SVG Creation:** Simplify logo creation by generating SVG files with a few easy prompts.
 *   **Instant Preview:** View your logo instantly by opening the generated `logo.svg` file in a browser.
 
-  - **See samples of a generated SVG logo files in demo folder!**
+  - **See samples of generated SVG logo files in the demo folder!**
   
 
 ## Installation
@@ -40,11 +40,11 @@ Now, you're ready to start crafting unique logos with the SVG Logo Maker!
 1.  Run the application using `node index.js`.
 2.  Answer the prompts:
     *   Choose a shape (square, circle, triangle).
-    *   Set the color for the shape.
+    *   Set the colour for the shape.
     *   Choose if you want a 2-color gradient background.
-        *   If yes, enter the second color for the gradient.
+        *   If yes, enter the second colour for the gradient.
     *   Enter up to three characters for the text.
-    *   Set the color for the text.
+    *   Set the colour for the text.
 3.  Review the generated `logo.svg` in the `demo` folder.
 4.  Open `logo.svg` in a browser to see your logo.
 
@@ -87,3 +87,7 @@ https://github.com/bahossdev/SVG-Logo-Maker
 If you have any questions or need further assistance, feel free to reach out @[bahoss.dev@gmail.com](mailto:bahoss.dev@gmail.com)
 
 ## Screenshots
+![screenshot](https://github.com/bahossdev/SVG-Logo-Maker/assets/148646212/bb167820-9349-4269-a774-b24128b9c130)
+![screenshot2](https://github.com/bahossdev/SVG-Logo-Maker/assets/148646212/b49f6c6d-30cc-47a8-85b6-7a34c5cf2ae5)
+
+
