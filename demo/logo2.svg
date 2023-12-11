@@ -1,0 +1,13 @@
+<svg version="1.1" width="300" height="200" xmlns="http://www.w3.org/2000/svg">
+
+  
+    <defs>
+        <radialGradient id="grad" cx="50%" cy="50%" r="70%" fx="50%" fy="50%">
+            <stop offset="0%" style="stop-color:red; stop-opacity:1" />
+            <stop offset="100%" style="stop-color:red; stop-opacity:1" />
+        </radialGradient>
+    </defs>
+    <circle cx="135" cy="115" r="80" fill="url(#grad)" />
+  <text x="135" y="135" font-size="60" text-anchor="middle" style="font-weight: bold; font-family: Arial, Sans;" fill="yellow">API</text>
+
+</svg>
