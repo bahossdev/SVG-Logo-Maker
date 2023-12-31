@@ -30,7 +30,6 @@ A Node.js command-line application that empowers developers to create custom log
 ## Installation
 Follow these steps to set up and use the SVG Logo Maker on your local machine:
 <pre>
-- git clone https://github.com/yourusername/your-repo.git
 - npm install inquirer@8.2.4
 - node index.js
 </pre>
